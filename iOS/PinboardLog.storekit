@@ -1,0 +1,27 @@
+{
+  "identifier" : "PinboardLog",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "PINBOARDLOG_PRO",
+      "localizations" : [
+        {
+          "description" : "Unlock Wishlist tracker with release-date alerts",
+          "displayName" : "PinboardLog Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.shimondeitel.pinboardlog.pro",
+      "referenceName" : "PinboardLog Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
